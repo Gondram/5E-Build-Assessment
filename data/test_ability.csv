@@ -1,0 +1,5 @@
+﻿ability_id,action_id,result
+eldritch_blast,attack_roll,6
+eldritch_blast,multi_target,1
+eldritch_blast,dice_damage,5.5
+eldritch_blast,damage_type,4
